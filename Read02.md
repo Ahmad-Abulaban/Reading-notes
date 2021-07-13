@@ -57,7 +57,7 @@
 # Getting Started
 
 
-** Download Git **
+**Download Git**
 
 #### In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.
 
@@ -76,7 +76,7 @@
 
 [http://git-scm.com/download/win](http://git-scm.com/download/win)
 
-** GitHub **
+**GitHub**
 
 ### Install Git as part of the GitHub for Windows install.
 
@@ -89,15 +89,15 @@
 
 ### You can try installing Git via your distribution’s inherent package management tool.
 
-** For Fedora: **
+**For Fedora:**
 
 > `$ sudo yum install git`
 
-** For Ubuntu: **
+**For Ubuntu:**
 
 > `$ sudo apt-get install git`
 
-** Git Website **
+**Git Website**
 
 ### To download Git for Linux, visit this link and follow the posted directions:
 
