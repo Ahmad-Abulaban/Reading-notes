@@ -57,7 +57,7 @@
 # Getting Started
 
 
-** Download Git**
+** Download Git **
 
 #### In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.
 
@@ -70,13 +70,13 @@
 
 + ## Windows
 
-**Git Website**
+#### Git Website 
 
 ### You can download Git by visiting this link and following the posted directions:
 
 [http://git-scm.com/download/win](http://git-scm.com/download/win)
 
-**GitHub**
+** GitHub **
 
 ### Install Git as part of the GitHub for Windows install.
 
@@ -89,15 +89,15 @@
 
 ### You can try installing Git via your distribution’s inherent package management tool.
 
-**For Fedora:**
+** For Fedora: **
 
 > `$ sudo yum install git`
 
-**For Ubuntu:**
+** For Ubuntu: **
 
 > `$ sudo apt-get install git`
 
-**Git Website**
+** Git Website **
 
 ### To download Git for Linux, visit this link and follow the posted directions:
 
@@ -112,17 +112,17 @@
 
 # Cloning
 
-## You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL: 
+### You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL: 
 
 > `$ git clone https://github.com/test`
 
-**By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project.**
+** By cloning the file, you have copied all versions of all files for a project. This command leads to the creation of a directory called “test,” with an initialized .git directory inside it, which has copies of all versions of all files for the specified project. The command also automatically checks out — or retrieves for editing — a copy of the newest version of the project. **
 
-**To clone a repository into a directory with another name of your choosing, use the following command format:**
+** To clone a repository into a directory with another name of your choosing, use the following command format: **
 
 > `$ git clone https://github.com/test mydirectory`
 
-**The command above makes a copy of the target repository in a directory named "mydirectory."**
+** The command above makes a copy of the target repository in a directory named "mydirectory." **
 
 ***
 
