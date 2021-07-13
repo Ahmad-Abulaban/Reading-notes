@@ -8,5 +8,5 @@
 
 | what I read | Links What I Read |
 | --- | ----------- |
-| Growth Mindset | [Visit Growth Mindset](https://ahmad-abulaban.github.io/Reading-notes/) |
+| Growth Mindset | [Visit Growth Mindset](https://ahmad-abulaban.github.io/Reading-notes/growthMindset) |
 | Markdown | [Visit Markdown](https://ahmad-abulaban.github.io/Reading-notes/Read01) |
