@@ -1,7 +1,3 @@
-[https://github.com/Ahmad-Abulaban](https://github.com/Ahmad-Abulaban)
-
-### My name is Ahmed Abulaban, I am 20 years old, I study software engineering at Luminous College, Abdulaziz Al Ghurair Department. I am in this course to learn more programming languages and gain experience in them. Finally, my favorite food is Kabsa.
-
 # Summary
 
 - **Growth mindset:** the hand you're dealt is only the beginning of your journey. This growth mentality is founded on the idea that you can improve your basic traits by putting out effort. Changing our perspectives may have a significant influence. The growth mentality fosters a strong desire to learn.
