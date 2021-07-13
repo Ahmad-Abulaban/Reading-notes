@@ -46,17 +46,29 @@
 
 |  Advantages of Git |
 | -------------- |
+<<<<<<< HEAD
 | 1. Good distributed model as each developer gets a local repository with a full history of commits which makes git fast compared to other VCs.      |
 | 2. Branching capabilities and merging are easy (as they are cheap), good data integrity.   |
 | 3. Data redundancy and replications. Add ons can be written in many languages. |
 | 4. The object model is very simple and minimizes push/pull data transfers.  |
 | 5. The push/pull operations are faster with a simple They save time and developers can fetch and create pull requests without switching.  |
+=======
+|** 1. Good distributed model as each developer gets a local repository with a full history of commits which makes git fast compared to other VCs.   **   |
+|** 2. Branching capabilities and merging are easy (as they are cheap), good data integrity.**   |
+|** 3. Data redundancy and replications. Add ons can be written in many languages.** |
+|** 4. The object model is very simple and minimizes push/pull data transfers.**  |
+|** 5. The push/pull operations are faster with a simple They save time and developers can fetch and create pull requests without switching.**  |
+>>>>>>> 2a45c17d14f081a55437f0e506f2235a5cfd463d
 
 ***
 
 # Getting Started
 
+<<<<<<< HEAD
 ** Download Git**
+=======
+ ## Download Git
+>>>>>>> 2a45c17d14f081a55437f0e506f2235a5cfd463d
 
 #### In order to use Git, your computer must have it available. If you already have Git on your computer, you should make sure you have the latest version.
 
@@ -112,7 +124,11 @@
 
 # Cloning
 
+<<<<<<< HEAD
 ## You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL: 
+=======
+** You can also create a copy of an existing Git repository from a particular server by using the clone command with a repository’s URL: **
+>>>>>>> 2a45c17d14f081a55437f0e506f2235a5cfd463d
 
 > `$ git clone https://github.com/test`
 
