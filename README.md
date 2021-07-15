@@ -11,3 +11,4 @@
 | Growth Mindset | [Visit Growth Mindset](https://ahmad-abulaban.github.io/Reading-notes/growthMindset) |
 | Markdown | [Visit Markdown](https://ahmad-abulaban.github.io/Reading-notes/Read01) |
 | Wireframe and Design | [Visit wireframe](https://ahmad-abulaban.github.io/Reading-notes/Read03) |
+| JavaScript | [Visit JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read04) |
