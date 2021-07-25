@@ -14,5 +14,8 @@
 | JavaScript | [Visit JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read04) |
 | Css | [Visit Css](https://ahmad-abulaban.github.io/Reading-notes/Read06) |
 | Operators and Loops | [Visit Operators and Loops](https://ahmad-abulaban.github.io/Reading-notes/Read05) |
+<<<<<<< HEAD
 | Programming with JavaScript | [Visit Programming with JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read07) |
+=======
+>>>>>>> baa93dcfa380f717deadcda48951c78899f82ae3
 
