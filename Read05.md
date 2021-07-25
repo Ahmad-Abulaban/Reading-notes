@@ -81,7 +81,7 @@
 | --- | ----------- |
 | `Logical AND (&&)` | `expr1 && expr2	`	 |
 | `Logical OR (||)` | `expr1 || expr2` |
-| `Logical NOT (!)` | `	!expr` |
+| `Logical NOT (!)` | `!expr` |
 
 
 # Loops and iteration
@@ -98,7 +98,7 @@
 
 > `for (let step = 0; step < 5; step++) {`
 
-` console.log('Walking east one step');`
+`console.log('Walking east one step');`
 
 > `}`
 
@@ -166,4 +166,5 @@
 
 + [Expressions and operators
 ](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+
 + [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration)
