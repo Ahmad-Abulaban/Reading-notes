@@ -4,7 +4,7 @@
 
 <hr>
 
-![css image](css.png)
+![css image](Images/css.png)
 
 <hr>
 
@@ -14,7 +14,7 @@
 
 ## Example 1:
 
-![Syntax](Syntax.png)
+![Syntax](Images/Syntax.png)
 
 
 <hr>
@@ -40,7 +40,7 @@
 **A CSS Module is a CSS file that, by default, defines localized class and animation names. CSS modules allow you to import a.css file into a JavaScript Object and assign CSS definitions to properties. It also allows you to expand and modularize style declarations by using the compose feature.**
 
 
-![CSS Modules](CSSModules.png)
+![CSS Modules](Images/CSSModules.png)
 
 <hr>
 
@@ -56,4 +56,4 @@
 <hr>
 
 
-![Thank](thank.png)
+![Thank](Images/thank.png)
