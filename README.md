@@ -29,7 +29,7 @@
 | what I read | Links What I Read |
 | --- | ----------- |
 | html ,Css and JavaScript  | [Visit html ,Css and JavaScript](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class01) |
-| Read02 | [Visit ]() |
+| Basics of HTML, CSS & JS | [Visit Basics of HTML, CSS & JS ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class02) |
 | Read03 | [Visit ]() |
 | Read04 | [Visit ]() |
 | Read05 | [Visit ]() |
