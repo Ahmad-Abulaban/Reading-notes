@@ -4,7 +4,9 @@
 ### **My name is Ahmed Abulaban, I am 20 years old, I study software engineering at Luminous College, Abdulaziz Al Ghurair Department. I am in this course to learn more programming languages and gain experience in them. Finally, my favorite food is Kabsa.**
 
 
-# Table of Contents
+# Code 102 Reading Notes
+
+## Table of Contents
 
 | what I read | Links What I Read |
 | --- | ----------- |
@@ -16,3 +18,28 @@
 | Operators and Loops | [Visit Operators and Loops](https://ahmad-abulaban.github.io/Reading-notes/Read05) |
 | Programming with JavaScript | [Visit Programming with JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read07) |
 
+***
+---
+
+
+# Code 102 Reading Notes
+
+## Table of Contents
+
+| what I read | Links What I Read |
+| --- | ----------- |
+| Read01  | [Visit ]() |
+| Read02 | [Visit ]() |
+| Read03 | [Visit ]() |
+| Read04 | [Visit ]() |
+| Read05 | [Visit ]() |
+| Read06 | [Visit ]() |
+| Read07 | [Visit ]() |
+| Read08 | [Visit ]() |
+| Read09 | [Visit ]() |
+| Read010 | [Visit ]() |
+| Read011 | [Visit ]() |
+| Read012 | [Visit ]() |
+| Read013 | [Visit ]() |
+| Read014 | [Visit ]() |
+| Read015 | [Visit ]() |
