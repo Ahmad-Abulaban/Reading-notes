@@ -32,7 +32,7 @@
 | Basics of HTML, CSS & JS | [Visit Basics of HTML, CSS & JS ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class02) |
 | HTML Lists | [Visit HTML Lists ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class03) |
 | Links, Functions, and Layout | [Visit Links, Functions, and Layout ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class04) |
-| Read05 | [Visit ]() |
+| Images, Color, Text | [Visit Images, Color, Text ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class05) |
 | Read06 | [Visit ]() |
 | Read07 | [Visit ]() |
 | Read08 | [Visit ]() |

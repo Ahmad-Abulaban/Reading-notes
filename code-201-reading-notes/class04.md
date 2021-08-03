@@ -107,7 +107,7 @@
 
 **A header is usually located at the top of the website (or right below a top navigation menu). It often contains a logo or the website name:**
 
-![Header](https://lh3.googleusercontent.com/proxy/K9xTbafq5jXqWILyG0bhxMGeRAebGDKnAaoOF84IbR-Ew5GyL0xN8urqm6j6rmnOhIZP9TV6XMnwZHi-ex9d1lkb-v7vCxK0wHErE56QDcZYhnw)
+![Header](https://media.geeksforgeeks.org/wp-content/cdn-uploads/Screenshot-11-1-1024x576.png)
 
 
 - Navigation Bar
