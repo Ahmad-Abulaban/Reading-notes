@@ -33,7 +33,7 @@
 | HTML Lists | [Visit HTML Lists ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class03) |
 | Links, Functions, and Layout | [Visit Links, Functions, and Layout ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class04) |
 | Images, Color, Text | [Visit Images, Color, Text ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class05) |
-| Read06 | [Visit ]() |
+| Problem Domain, Objects, and the DOM | [Visit Problem Domain, Objects, and the DOM ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class06) |
 | Read07 | [Visit ]() |
 | Read08 | [Visit ]() |
 | Read09 | [Visit ]() |
