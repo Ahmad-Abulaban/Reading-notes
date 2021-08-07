@@ -12,11 +12,11 @@
 | --- | ----------- |
 | Growth Mindset | [Visit Growth Mindset](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/growthMindset) |
 | Markdown | [Visit Markdown](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read01) |
-| Wireframe and Design | [Visit wireframe](https://ahmad-abulaban.github.io/Reading-notes/Read03) |
-| JavaScript | [Visit JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read04) |
-| Css | [Visit Css](https://ahmad-abulaban.github.io/Reading-notes/Read06) |
-| Operators and Loops | [Visit Operators and Loops](https://ahmad-abulaban.github.io/Reading-notes/Read05) |
-| Programming with JavaScript | [Visit Programming with JavaScript](https://ahmad-abulaban.github.io/Reading-notes/Read07) |
+| Wireframe and Design | [Visit wireframe](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read03) |
+| JavaScript | [Visit JavaScript](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read04) |
+| Css | [Visit Css](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read06) |
+| Operators and Loops | [Visit Operators and Loops](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read05) |
+| Programming with JavaScript | [Visit Programming with JavaScript](https://ahmad-abulaban.github.io/Reading-notes/code-102-reading-notes/Read07) |
 
 ***
 ---
