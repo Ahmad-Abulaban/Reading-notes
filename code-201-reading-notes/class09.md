@@ -2,7 +2,7 @@
 
 **Form Controls**
 
-![Form](Form.png)
+![Form](images/Form.png)
 
 ***
 
@@ -11,7 +11,7 @@
 **The `<input>` element is used to create several different form controls. The value of the type attribute determines what kind of input they will be creating.**
 
 
-![input](input.png)
+![input](images/input.png)
 
 ***
 
@@ -20,7 +20,7 @@
 **When the type attribute has a value of password it creates a text box that acts just like a single-line text input, except the characters are blocked out. They are hidden in this way so that if someone is looking over the user's shoulder, they cannot see sensitive data such as passwords.**
 
 
-![password](password.png)
+![password](images/password.png)
 
 ***
 
@@ -28,7 +28,7 @@
 
 **The `<textarea>` element is used to create a multiline text input. Unlike other input elements this is not an empty element. It should therefore have an opening and a closing tag.**
 
-![text area](textArea.png)
+![text area](images/textArea.png)
 
 ***
 
@@ -36,7 +36,7 @@
 
 **The `<button>` element was introduced to allow users more control over how their buttons appear, and to allow other elements to appear inside the button.**
 
-![button & hidden Controls](button.png)
+![button & hidden Controls](images/button.png)
 
 
 ***
@@ -96,14 +96,14 @@ Summary
 
 **All modern browsers understand this way of creating an event handler, but you can only attach one function to each event handler.**
 
-![Event](Event.png)
+![Event](images/Event.png)
 
 
 + Event listeners
 
 **Event listeners are a more recent approach to handling events. They can deal with more than one function at a time but they are not supported in older browsers.**
 
-![Event1](Event1.png)
+![Event1](images/Event1.png)
 
 
 ***

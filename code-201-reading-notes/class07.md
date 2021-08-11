@@ -35,7 +35,7 @@
 
 **Example:**
 
-![object](object.png)
+![object](images/object.png)
 
 
 
