@@ -39,7 +39,7 @@
 | Forms and JS Events | [Visit Forms and JS Events ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class09) |
 | Error Handling & Debugging | [Visit Error Handling & Debugging ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class10) |
 | Audio, Video, Images | [Visit Audio, Video, Images ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class11) |
-| Read012 | [Visit ]() |
+| Chart.js, Canvas | [Visit Chart.js, Canvas ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class12) |
 | Read013 | [Visit ]() |
 | Read014 | [Visit ]() |
 | Read015 | [Visit ]() |
