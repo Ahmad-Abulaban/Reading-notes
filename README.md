@@ -40,6 +40,6 @@
 | Error Handling & Debugging | [Visit Error Handling & Debugging ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class10) |
 | Audio, Video, Images | [Visit Audio, Video, Images ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class11) |
 | Chart.js, Canvas | [Visit Chart.js, Canvas ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class12) |
-| Read013 | [Visit ]() |
+| Local Storage | [Visit Local Storage ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class13) |
 | Read014 | [Visit ]() |
 | Read015 | [Visit ]() |
