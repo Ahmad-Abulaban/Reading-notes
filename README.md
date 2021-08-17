@@ -41,5 +41,5 @@
 | Audio, Video, Images | [Visit Audio, Video, Images ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class11) |
 | Chart.js, Canvas | [Visit Chart.js, Canvas ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class12) |
 | Local Storage | [Visit Local Storage ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class13) |
-| CSS Transforms, Transitions, and Animations | [Visit CSS Transforms, Transitions, and Animations ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14) |
-| Read015 | [Visit ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class15) |
+| CSS Transforms, Transitions, and Animations | [Visit CSS Transforms, Transitions, and Animations ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14a) |
+| What Google Learned | [Visit What Google Learned ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14b) |
