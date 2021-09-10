@@ -3,10 +3,13 @@
 
 ### **My name is Ahmed Abulaban, I am 20 years old, I study software engineering at Luminous College, Abdulaziz Al Ghurair Department. I am in this course to learn more programming languages and gain experience in them. Finally, my favorite food is Kabsa.**
 
+***
 
-# Code 102 Reading Notes
+# Intro to Software Development
 
-## Table of Contents
+## Code 102 Reading Notes
+
+### Table of Contents
 
 | what I read | Links What I Read |
 | --- | ----------- |
@@ -21,25 +24,38 @@
 ***
 ---
 
+# Foundations of Software Development
 
-# Code 102 Reading Notes
+## Code 201 Reading Notes
 
-## Table of Contents
+### Table of Contents
 
 | what I read | Links What I Read |
 | --- | ----------- |
 | html ,Css and JavaScript  | [Visit html ,Css and JavaScript](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class01) |
-| Basics of HTML, CSS & JS | [Visit Basics of HTML, CSS & JS ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class02) |
-| HTML Lists | [Visit HTML Lists ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class03) |
-| Links, Functions, and Layout | [Visit Links, Functions, and Layout ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class04) |
-| Images, Color, Text | [Visit Images, Color, Text ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class05) |
-| Problem Domain, Objects, and the DOM | [Visit Problem Domain, Objects, and the DOM ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class06) |
-| HTML Tables; JS Constructor Functions | [Visit HTML Tables; JS Constructor Functions ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class07) |
-| CSS Layout | [Visit CSS Layout ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class08) |
-| Forms and JS Events | [Visit Forms and JS Events ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class09) |
-| Error Handling & Debugging | [Visit Error Handling & Debugging ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class10) |
-| Audio, Video, Images | [Visit Audio, Video, Images ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class11) |
-| Chart.js, Canvas | [Visit Chart.js, Canvas ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class12) |
-| Local Storage | [Visit Local Storage ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class13) |
-| CSS Transforms, Transitions, and Animations | [Visit CSS Transforms, Transitions, and Animations ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14a) |
-| What Google Learned | [Visit What Google Learned ](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14b) |
+| Basics of HTML, CSS & JS | [Visit Basics of HTML, CSS & JS](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class02) |
+| HTML Lists | [Visit HTML Lists](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class03) |
+| Links, Functions, and Layout | [Visit Links, Functions, and Layout](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class04) |
+| Images, Color, Text | [Visit Images, Color, Text](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class05) |
+| Problem Domain, Objects, and the DOM | [Visit Problem Domain, Objects, and the DOM](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class06) |
+| HTML Tables; JS Constructor Functions | [Visit HTML Tables; JS Constructor Functions](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class07) |
+| CSS Layout | [Visit CSS Layout](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class08) |
+| Forms and JS Events | [Visit Forms and JS Events](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class09) |
+| Error Handling & Debugging | [Visit Error Handling & Debugging](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class10) |
+| Audio, Video, Images | [Visit Audio, Video, Images](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class11) |
+| Chart.js, Canvas | [Visit Chart.js, Canvas](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class12) |
+| Local Storage | [Visit Local Storage](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class13) |
+| CSS Transforms, Transitions, and Animations | [Visit CSS Transforms, Transitions, and Animations](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14a) |
+| What Google Learned | [Visit What Google Learned](https://ahmad-abulaban.github.io/Reading-notes/code-201-reading-notes/class14b) |
+
+# Intermediate Software Development
+
+## Code 301 Reading Notes
+
+### Table of Contents
+
+| what I read | Links What I Read |
+| --- | ----------- |
+| Read01  | Visit Read01 |
+| Read02  | Visit Read02 |
+| Read03  | Visit Read03 |
