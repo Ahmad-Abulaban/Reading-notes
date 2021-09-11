@@ -56,6 +56,6 @@
 
 | what I read | Links What I Read |
 | --- | ----------- |
-| Read01  | Visit Read01 |
+| Introduction to React and Components  | [Visit Introduction to React and Components](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read01) |
 | Read02  | Visit Read02 |
 | Read03  | Visit Read03 |
