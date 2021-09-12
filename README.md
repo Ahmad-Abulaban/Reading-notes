@@ -57,5 +57,5 @@
 | what I read | Links What I Read |
 | --- | ----------- |
 | Introduction to React and Components  | [Visit Introduction to React and Components](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read01) |
-| Read02  | Visit Read02 |
+| State and Props  | [Visit State and Props](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read02)  |
 | Read03  | Visit Read03 |
