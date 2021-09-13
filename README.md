@@ -58,4 +58,4 @@
 | --- | ----------- |
 | Introduction to React and Components  | [Visit Introduction to React and Components](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read01) |
 | State and Props  | [Visit State and Props](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read02)  |
-| Read03  | Visit Read03 |
+| Passing Functions as Props  | [Visit Passing Functions as Props](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read03) |
