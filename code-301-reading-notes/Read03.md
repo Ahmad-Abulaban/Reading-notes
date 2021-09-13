@@ -2,8 +2,7 @@
 
 ## What does .map() return?
 
-**The map() method calls a callback function on every element of an array and returns a new array that contains the results.
-**
+**The map() method calls a callback function on every element of an array and returns a new array that contains the results.**
 
 ***
 
