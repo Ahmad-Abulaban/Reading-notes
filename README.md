@@ -60,3 +60,4 @@
 | State and Props  | [Visit State and Props](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read02)  |
 | Passing Functions as Props  | [Visit Passing Functions as Props](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read03) |
 | React and Forms  | [Visit React and Forms](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read04) |
+| Putting it all together  | [Visit Putting it all together](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read05) |
