@@ -63,4 +63,6 @@
 | Putting it all together  | [Visit Putting it all together](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read05) |
 | NODE.JS  | [Visit NODE.JS](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read06) |
 | REST  | [Visit REST](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read07) |
-| Read08  | [Visit Read09](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read08) |
+| APIs  | [Visit APIs](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read08) |
+| Read9  | [Visit Read9](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read09) |
+| Read10  | [Visit Read10](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read10) |
