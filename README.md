@@ -66,3 +66,5 @@
 | APIs  | [Visit APIs](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read08) |
 | FUNCTIONAL PROGRAMMING  | [Visit FUNCTIONAL PROGRAMMING](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read09) |
 | In memory storage  | [Visit In memory storage](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read10) |
+| Authentication  | [Visit Authentication](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read11) |
+| Read12  | [Visit Read12](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read12) |
