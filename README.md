@@ -69,4 +69,4 @@
 | Authentication  | [Visit Authentication](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read11) |
 | Mongo and Mongoose  | [Visit Mongo and Mongoose](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read12) |
 | CRUD  | [Visit CRUD](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read13) |
-| Read14  | [Visit Read14](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read14) |
+| Project Ideas  | [Visit Project Ideas](https://ahmad-abulaban.github.io/Reading-notes/code-301-reading-notes/Read14) |
